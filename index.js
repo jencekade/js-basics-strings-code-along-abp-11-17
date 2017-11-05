@@ -1,9 +1,8 @@
 // Write your code in this file!
-let currentUser = "";
+let currentUser = "Jence";
 
-let welcomeMessage = "Welcome to Flatbook "+currentUser +"!";
+let welcomeMessage = "Welcome to Flatbook, "+currentUser +"!";
 
-let excitedMessage = "WELCOME TO FLATBOOK "+currentUser + "!";
+let excitedWelcomeMessage = "WELCOME TO FLATBOOK, "+currentUser + "!";
 
-let shortGreeting = "Welcome "+currentUser;
-
+let shortGreeting = "Welcome, "+currentUser;
